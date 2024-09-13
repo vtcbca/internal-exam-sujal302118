@@ -1,0 +1,5 @@
+This is a sample file.
+It contains 5 lines directly.
+And 5 lines from the user.
+The smallest and largest words will be printed.
+the file is created by bca student.
